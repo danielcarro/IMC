@@ -1,0 +1,19 @@
+.header{
+
+}
+
+.headerContainer{
+    max-width: 900px;
+    margin: 40px auto;      
+}
+
+.headerContainer img{
+    max-width: 100px;
+}
+
+
+@media (max-width:770px){
+    header {
+        padding: 0 20px;
+    }
+}
