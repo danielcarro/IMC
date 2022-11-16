@@ -1,20 +1,11 @@
-# Calculador de IMC 
+# Calculator IMC 
 
-Projeto aula React + typescript.
+Project React + typescript.
 
-Fazendo uma calculadora de IMC.
-
-Escola: B7web
-
-Professor: Boniek
-
-Código adaptado pelo aluno
-Daniel Carro.
-
-### Instalação
+### Installation
 
 - `npm install`
 
-### Para rodar
+### Run
 
 - `npm run dev`
